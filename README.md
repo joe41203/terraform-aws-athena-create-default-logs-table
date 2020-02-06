@@ -1,0 +1,1 @@
+# terraform-athena-create-default-logs-table
